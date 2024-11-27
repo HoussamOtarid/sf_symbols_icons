@@ -1,0 +1,7 @@
+{
+  "name": "SF Symbols Icons",
+  "content_in_root": false,
+  "filename": "sf_symbols_icons",
+  "domains": ["frontend"],
+  "render_readme": true
+}
